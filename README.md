@@ -5,7 +5,7 @@
 * I perform campares transfer learning and training from scratch with model VGG16.
   - The results of training from scratch had high performance with Accuracy 99% in validation set and 98% in test set (Cause the layers extract feature of pre-train model vgg not suitable our data).
   - Some fruits have quite similar color and shapes, which has caused slight confusion. 
-  ex: ![results-inference](images/results-1.png)
+  - ex: ![results-inference](images/results-1.png)
 
 
   
